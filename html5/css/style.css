@@ -1,0 +1,29 @@
+#t1{
+    margin-top: 200px;
+    margin-left: 550px;
+    margin-right: 500px;
+    margin-bottom: 250px;
+    border-left: 10px;
+    background-color: darkorange;
+    border-radius: 25px;
+    padding: 15px;
+}
+.t2{
+    margin-left: 100px;
+    
+    width: 100px;
+}
+#c1{
+    background-color: crimson;
+    
+}
+
+body{
+    background-color: darkblue;
+}
+.t45{
+    margin-left: 29px;
+}
+.t64{
+    margin-top: 20px;
+}
